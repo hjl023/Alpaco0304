@@ -1,5 +1,7 @@
 # Alpaco0304
 
+<img src="architecture.jpg" width="200" height="400"/>
+
 1. 수행기관
    알파코, 빅데이터기반 딥러닝 부트캠프
 2. 사용 Tool & model
@@ -7,7 +9,7 @@
 3. 데이터
    0~9의 숫자로 이루어진 MNIST train 6만장 test 3만
 5. 결과이미지
-  ![output](https://github.com/hjl023/Alpaco0304/assets/149747454/875889b2-b3b5-4032-96bc-68a3766042e3){: width="100" height="100"}
+  ![output](https://github.com/hjl023/Alpaco0304/assets/149747454/875889b2-b3b5-4032-96bc-68a3766042e3)
 6. 전체설계도
    ![architecture](https://github.com/hjl023/Alpaco0304/assets/149747454/2611b5e9-bb02-4cc3-869a-52ad45bbc972)
 7. 참고논문
